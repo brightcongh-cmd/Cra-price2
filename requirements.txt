@@ -1,6 +1,5 @@
 flask
-streamlit
-numpy
-pandas
-scikit-learn
 gunicorn
+numpy
+scikit-learn
+streamlit
