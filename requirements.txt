@@ -1,5 +1,3 @@
-flask-cors
-gunicorn
-numpy
-scikit-learn
 streamlit
+scikit-learn
+numpy
