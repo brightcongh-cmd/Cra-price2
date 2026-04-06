@@ -1,3 +1,6 @@
 streamlit
 scikit-learn
 numpy
+flask
+flask-cors
+gunicorn
